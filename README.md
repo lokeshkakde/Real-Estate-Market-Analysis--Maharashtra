@@ -32,6 +32,6 @@ This project analyzes 15,000+ real estate listings across Maharashtra to uncover
 - Enables data-driven decision making
 
 ## 📂 Project Files
-- SQL Queries: `sql/analysis_queries.sql`
+- SQL Queries: `maharashtra.sql`
 - Dashboard: `dashboard.pbix`
 - Dataset: `maharashtra.csv`
