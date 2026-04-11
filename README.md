@@ -24,7 +24,7 @@ This project analyzes 15,000+ real estate listings across Maharashtra to uncover
 
 ## 📊 Dashboard Preview
 ![Page 1](images/dashboard_page1.png)
-![Page 2](images/dashboard_page2.png)
+![Page 2](Investment and Insights.jpeg)
 
 ## 🚀 Business Impact
 - Helps investors identify high-growth zones
