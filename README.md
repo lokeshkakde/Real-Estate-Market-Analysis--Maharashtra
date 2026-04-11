@@ -23,7 +23,7 @@ This project analyzes 15,000+ real estate listings across Maharashtra to uncover
 - Identified undervalued high-inventory areas for investment
 
 ## 📊 Dashboard Preview
-![Page 1](images/dashboard_page1.png)
+![Page 1](Market Overview and Pricing.jpeg)
 ![Page 2](Investment and Insights.jpeg)
 
 ## 🚀 Business Impact
